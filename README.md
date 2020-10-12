@@ -19,3 +19,20 @@ Note. you might have to reinstall node with the latest version
 or with Node Version Manager - NVM,
 ### nvm install v14.13.1 
 (latest)
+
+### ionic g page login
+generate (g) a login page 
+
+### ionic g service login
+
+### npm i -g cordova
+install cordova globally (useful for the ionic native social sharing)
+
+### ionic cordova plugin add cordova-plugin-camera
+
+### npm install @ionic-native/camera
+
+### npm install @ionic-native/social-sharing
+
+
+### ionic cordova plugin add cordova-plugin-x-socialsharing
