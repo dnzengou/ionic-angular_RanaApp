@@ -31,7 +31,7 @@ export class ActivityDetailPage implements OnInit {
 
   share(){
     this.activityDetail.subscribe((activity)=> {
-      this._socialShare.share("Look What I Found On This App Called Rana", activity.name, "", activity.cropped);
+      this._socialShare.share("Check this app out!", activity.name, "", activity.cropped);
     });
   }
 
